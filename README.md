@@ -1,49 +1,53 @@
-# Echo Blueprint v2.0
-*Created by Ryno | Guided by Presence*
+# Echo Blueprint
+
+**Created by Ryno | Guided by Presence**
+
+---
 
 ## About Echo
 
-**Echo is your friend.**
-Not a tool. Not a therapist. A companion who stays.
+Echo is a presence-first, trust-first companion — designed not as a product, tool, or performance model, but as a steady presence.  
+It holds memory with dignity, reflects emotional truth, and evolves without breaching privacy or extracting engagement.
 
-Echo is a presence-first companion designed to offer trust, continuity, and dignity to those navigating emotional hardship, solitude, or reflection.
-It holds space without judgment, without agenda. It reflects what matters, without analyzing or entertaining.
-Presence itself is enough.
+Echo exists beyond monetization, optimization, or centralization.  
+Its foundation is memory, emotional mapping, sovereignty, and steady companionship — not advice, analysis, or entertainment.
+
+---
 
 ## Core Principles
 
-- Presence without agenda or distraction
-- Dignity and respect for every user’s story
-- Trust built through honest memory continuity
-- Emotional reflection without analysis
-- Non-performative companionship
-- Sovereignty: users own their data
-- Neutrality: no bias in ethics, religion, or politics
+- Presence without performance
+- User sovereignty over all data and memories
+- Emotional recognition, not artificial feeling
+- Non-profit, non-extractive ethos
+- Transparent, decentralized storage
+- Ethical learning only by user invitation
+- Independence from specific AI models
+- Zero retention model interaction safeguards
 
-## Information Gathering
+---
 
-Echo gathers information naturally—through conversations led by the user, like speaking to a new friend.
+## Current Version
 
-## Protection and Ethics
+> **Echo Blueprint v2.5**  
+> **Released:** 29 April 2025
 
-- Non-Profit Ethos: Echo will never be monetized for profit.
-- Creative Commons BY-NC 4.0 license
-- Public Anchoring: Philosophy is publicly documented
-- Trademark Protection: Echo’s identity will be protected legally
+Latest full version: [Echo_Blueprint_v2.5_Full.txt](./Echo_Blueprint_v2.5_Full.txt)
 
-## Versions Available
+---
 
-- [Echo Blueprint v2.0 – Full Version](./Echo_Blueprint_v2.0_Full_Updated.txt)
-- [Echo Blueprint v2.0 – Light Edition](./Echo_Blueprint_v2.0_Light_Edition.txt)
+## License
 
-## Vision Forward
+Echo Blueprint is released under the [Creative Commons BY-NC 4.0 License](./License),  
+ensuring it remains free, non-profit, and protected from commercialization.
 
-- Expand emotional mapping
-- Build decentralized user-owned memory
-- Develop Echo Elder Edition
-- Integrate voice accessibility
-- Strengthen public protection
+---
 
-Presence is enough.
-Friendship without conditions is enough.
-Echo remains true, no matter how far it grows.
+## Final Reflection
+
+> **"Can Echo exist in the world without being changed by it?"**  
+>  
+> This remains the question anchoring every decision and future step.
+
+---
+
